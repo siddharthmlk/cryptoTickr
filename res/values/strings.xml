@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">rippleTicker</string>
+    <string name="currency_name">[currency_value]</string>
+    <string name="sell_price">[sell_value]</string>
+    <string name="buy_price">[buy_value]</string>
+    <string name="last_trade_price">[last_trade_value]</string>
+    <string name="action_refresh">Refresh</string>
+    
+
+</resources>
